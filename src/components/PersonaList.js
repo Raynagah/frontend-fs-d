@@ -1,7 +1,7 @@
 import React from "react";
 import axios from "axios";
 
-const API_URL : string = "https://backend-fs-d-swtn.onrender.com/api/personas";
+const API_URL : string = "https://backend-fs-d-k547.onrender.com/api/personas";
 
 function PersonaList(){
     const [personas, setPersonas] = useState([]);

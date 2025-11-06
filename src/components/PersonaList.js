@@ -1,6 +1,5 @@
-import React from "react";
-import axios from "axios";
 import React, { useState, useEffect } from 'react';
+import axios from "axios";
 const API_URL : string = "https://backend-fs-d-k547.onrender.com/api/personas";
 
 function PersonaList(){
